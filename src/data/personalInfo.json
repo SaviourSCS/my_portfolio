@@ -1,0 +1,42 @@
+{
+    "name": "Shubham Chandra Saurabh",
+    "title": "ML Engineer",
+    "greeting": "Hello!",
+    "staticHeadline": "I Am",
+    "roles": [
+      "ML Engineer",
+      "Data Scientist",
+      "AI Researcher",
+      "Deep Learning Expert",
+      "NLP Specialist",
+      "Computer Vision Engineer"
+    ],
+    "description": "I'm a passionate Machine Learning Engineer with over 2 years of extensive experience in developing intelligent systems, implementing deep learning models, and solving complex data problems with state-of-the-art AI technologies. My expertise lies in leveraging cutting-edge tools and methodologies to create innovative solutions that drive business impact.",
+    "location": "India",
+    "email": "shubhamchandrasaurabh1@gmail.com",
+    "phone": "+91-9970639319",
+    "profileImage": "/my_portfolio/images/scs.png",
+    "resumeLink": "/my_portfolio/images/Updated_resume_scs.pdf",
+    "socialMedia": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shubham-chandra-saurabh-8a06671b6/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/SaviourSCS",
+        "icon": "github"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/ShubhamCS2705",
+        "icon": "twitter"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@shubhamchandrasaurabh1/list/reading-list",
+        "icon": "medium"
+      }
+    ]
+  }

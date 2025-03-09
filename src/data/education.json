@@ -1,0 +1,22 @@
+{
+    "education": [
+      {
+        "degree": "Bachelor of Engineering in Computer Science",
+        "institution": "ITM University Gwalior",
+        "period": "2018 - 2022",
+        "description": "Specialized in artificial intelligence and data science. Graduated with honors (GPA: 3.92/4.0).",
+        "courses": ["Algorithms", "Data Structures", "Database Systems", "Introduction to Machine Learning", "Distributed Systems"]
+      },
+      {
+        "degree": "Online Courses & Certifications",
+        "institution": "Various Platforms",
+        "period": "2020 - Present",
+        "description": "Continuously enhancing skills through online courses and certifications.",
+        "certifications": [
+          "Python for Data Science",
+          "AWS Academy6 Graduated-AWS Academy Cloud Foundations",
+          "Introduction to Responsible AI| Google Cloud Skills Boost (Google)"
+        ]
+      }
+    ]
+  }

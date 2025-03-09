@@ -1,0 +1,25 @@
+{
+    "experiences": [
+      {
+        "title": "Machine Learning Engineer",
+        "company": "AiEnsured Pvt Ltd",
+        "period": "July 2023 - Present",
+        "description": "Developed end-to-end RAG pipelines for testing, with a strong emphasis on AI-generated output metrics for evaluation. Designed and built a complete evaluation pipeline for RAG models, including custom test data generation and explainability techniques. Led the development of a robust road scenario object detection system using YOLO and OpenCV, achieving 85% precision and 87% recall in real time.",
+        "technologies": ["Python", "YOLO", "OpenCV", "Flask", "LangChain", "Vector Search", "LLama2-7b"]
+      },
+      {
+        "title": "Manual Tester",
+        "company": "Mobiloitte Technologies",
+        "period": "Aug 2022 - May 2023",
+        "description": "Conducted comprehensive testing of live cryptocurrency platforms, including Tarality and BitBharat. Evaluated the Exobe marketplace project, ensuring quality and performance standards were met.",
+        "technologies": ["Manual Testing", "Functional Testing", "Bug Tracking"]
+      },
+      {
+        "title": "Machine Learning Intern",
+        "company": "Hynix Intermedia",
+        "period": "March 2022 - May 2022",
+        "description": "Provided crucial support on live projects, applying machine learning and deep learning expertise to develop cutting-edge solutions. Gained hands-on experience in implementing ML models for real-world applications.",
+        "technologies": ["Python", "Machine Learning", "Deep Learning"]
+      }
+    ]
+  }

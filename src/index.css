@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* Custom styles that extend Tailwind */
+@layer components {
+  .section-title {
+    @apply text-4xl font-bold mb-16 relative inline-block;
+  }
+  
+  .section-title::after {
+    content: '';
+    @apply absolute bottom-[-10px] left-0 w-16 h-1 bg-secondary;
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Add a bit of custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a2638;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #56cca7;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4aa98e;
+}

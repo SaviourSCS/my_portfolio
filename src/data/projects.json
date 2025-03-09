@@ -1,0 +1,66 @@
+{
+    "projects": [
+      {
+        "title": "RAG Chatbot",
+        "category": "LLM",
+        "image": "/my_portfolio/images/Rag.png",
+        "description": "Developed an advanced information retrieval application leveraging a Retrieval-Augmented Generation (RAG) system. The core objective was to enhance search accuracy and response quality by integrating vector search embeddings, LLama2-7B, and LangChain.",
+        "keyFeatures": [
+          "With High Accuracy",
+          "With High Speed",
+          "Built responsive UI with Streamlit"
+        ],
+        "technologies": ["Python", "HuggingFace", "Langchain", "Streamlit", "Ollama"],
+        "demoLink": "https://github.com/SaviourSCS",
+        "codeLink": "https://github.com/SaviourSCS"
+      },
+      {
+        "title": " Evaluations pipeline for RAG Chatbot",
+        "category": "LLM",
+        "image": "/my_portfolio/images/eval.png",
+        "description": "Developed a comprehensive evaluation pipeline for the RAG chatbot, enabling the assessment of various metricd . The system also includes hallucination detection to ensure the accuracy of generated responses.",
+        "keyFeatures": [
+          "Hallucination detection",
+          "Various Metrices for rag chatbot evalution"
+        ],
+        "technologies": ["Python", "Langchain", "chroma", "Fast-api", "HuggingFace"],
+        "demoLink": "#",
+        "codeLink": "https://github.com/SaviourSCS"
+      },
+      {
+        "title": "Code Assistant",
+        "category": "LLM",
+        "image": "/my_portfolio/images/Code_assi.png",
+        "description": "A robust Application for code generation.",
+        "keyFeatures": [
+          "Code Generation",
+          "Code Completion"
+        ],
+        "technologies": ["Python", "Gradio", "Codellama", "HuggingFace"],
+        "demoLink": "#",
+        "codeLink": "https://github.com/SaviourSCS"
+      },
+      {
+        "title": "Road Scenario Detection",
+        "category": "computer-vision",
+        "image": "/my_portfolio/images/traffic.jpg",
+        "description": "This system is designed to detect vehicles, traffic signs, and pedestrians, providing a comprehensive analysis of traffic conditions. Using advanced image detection techniques, it ensures accurate and efficient identification of objects in dynamic road environments, enhancing traffic monitoring and safety",
+        "keyFeatures": [
+          "Implemented YOLOv8 with custom training",
+          "Achieved real-time processing "
+        ],
+        "technologies": ["Python", "PyTorch", "OpenCV", "CUDA"],
+        "demoLink": "#",
+        "codeLink": "https://github.com/SaviourSCS/Road-Scenario-Object-Detection"
+      }
+    ],
+    "filters": [
+      { "name": "All", "value": "all" },
+      { "name": "Web Development", "value": "web-development" },
+      { "name": "Web Application", "value": "web-application" },
+      { "name": "Machine Learning", "value": "machine-learning" },
+      { "name": "NLP", "value": "nlp" },
+      { "name": "Computer Vision", "value": "computer-vision" },
+      { "name": "Blockchain", "value": "blockchain" }
+    ]
+  }

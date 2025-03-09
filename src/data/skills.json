@@ -1,0 +1,66 @@
+
+{
+  "intro": "Experienced AI professional with 2+ years of hands-on AI/ML expertise. Proficient in NLP, Generative AI, Computer Vision. Skilled in building and maintaining efficient AI pipelines. Seeking challenging projects to contribute to innovative teams and drive impactful results.",
+  "additionalInfo": "I'm always eager to learn new technologies and tackle challenging problems. My approach combines technical expertise with a strong focus on delivering user-friendly solutions that drive business value.",
+  "categories": [
+    {
+      "category": "Backend",
+      "skills": [
+        { "name": "Python", "proficiency": 95 },
+        { "name": "MySQL", "proficiency": 80 },
+        { "name": "Fast APIs", "proficiency": 85 }
+      ]
+    },
+    {
+      "category": "Dev and Cloud Tools",
+      "skills": [
+        { "name": "AWS", "proficiency": 80 },
+        { "name": "CI/CD", "proficiency": 80 },
+        { "name": "GitHub Actions", "proficiency": 85 },
+        { "name": "Power-BI", "proficiency": 60 },
+        { "name": "Monitoring & Logging", "proficiency": 80 }
+      ]
+    },
+    {
+      "category": "Frontend",
+      "skills": [
+        { "name": "React", "proficiency": 50 },
+        { "name": "JavaScript", "proficiency": 50 },
+        { "name": "HTML", "proficiency": 70 },
+        { "name": "CSS", "proficiency": 60 }
+      ]
+    },
+    {
+      "category": "Machine Learning Libraries",
+      "skills": [
+        { "name": "TensorFlow", "proficiency": 90 },
+        { "name": "PyTorch", "proficiency": 85 },
+        { "name": "Scikit-learn", "proficiency": 90 },
+        { "name": "Langchain[all]", "proficiency": 80 },
+        { "name": "LangGraph", "proficiency": 80 },
+        { "name": "AutoGen", "proficiency": 80 },
+        { "name": "NLTK", "proficiency": 85 },
+        { "name": "OpenCV", "proficiency": 85 },
+        { "name": "Langchain", "proficiency": 80 }
+      ]
+    },
+    {
+      "category": "Specialized Fields",
+      "skills": [
+        { "name": "Generative AI", "proficiency": 85 },
+        { "name": "NLP", "proficiency": 90 },
+        { "name": "Deep Learning", "proficiency": 85 },
+        { "name": "Computer Vision", "proficiency": 85 }
+      ]
+    },
+    {
+      "category": "Other Skills",
+      "skills": [
+        { "name": "Huggingface", "proficiency": 80 },
+        { "name": "Ollama", "proficiency": 85 },
+        { "name": "Web Scraping", "proficiency": 75 },
+        { "name": "Linux", "proficiency": 80 }
+      ]
+    }
+  ]
+}
